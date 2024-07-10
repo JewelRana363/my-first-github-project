@@ -1,0 +1,67 @@
+.title{
+text-align: center;
+
+background-image: url(../B10A1-Challenge-Begins/assets/Hero-bg.png);
+padding: 100px;
+background-position: center ,bottom;
+
+}
+.banner{
+    text-align: center;
+    padding: 0px 40px ;
+}
+.about{
+    background-color: #FFFFFF;
+    border-image-width: auto;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 5px;
+    padding: 48px;
+}
+.row1{
+    text-align: center;
+    justify-content: space-between;
+}
+.button{
+    color: white;
+    border-radius: 5px;
+    background:  #0D1321;
+
+}
+.row2{
+    display: flex;
+    text-align: center;
+    padding: 5px;
+    justify-content:center ;
+    gap: 5px;
+    padding: 48px;
+}
+.btn1{
+    display: inline-block;
+    padding: 10px;
+    background-color: #FFFFFF;
+    color: black;
+}
+.button2{
+display: inline-block;
+padding: 10px;
+background-color: #FFFFFF;
+color: black;
+}
+.btn3{
+    display: inline-block;
+    padding: 10px;
+    background: white;
+    color: black;
+}
+.sec1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+    
+
+    
+
